@@ -8,9 +8,10 @@ I wouldn't recommend using this without a vpn/proxy as it is possible to get IP 
 
 ## Usage
 
-To use this script start it with the following command:
+To use this script, install all dependencies and start it with the following command:
 
 ```text
+npm install
 npm start
 ```
 
