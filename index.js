@@ -16,7 +16,7 @@ inquirer
 		{
 			type: "number",
 			name: "amount",
-			message: "Amount of Images",
+			message: "Amount of Images:",
 			filter(val) {
 				return Math.floor(val);
 			},
